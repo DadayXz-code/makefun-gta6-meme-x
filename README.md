@@ -1,6 +1,8 @@
 # GTA 6 Meme on X — "LOADING... 99% — 13 years"
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/DadayXz-code/makefun-gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/DadayXz-code/makefun-gta6-meme-x/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 Entry untuk bounty make.fun **gta6-meme-x-01** — "Post a GTA 6 meme on X", $500 USDC (1st $100, 2nd $60, 3rd $30, 4th–10th $10, 11th–50th $6). Deadline: **2026-11-23 14:00 UTC**. Akun: **@dadayxz**.
 
